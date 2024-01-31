@@ -10,7 +10,7 @@ const About = () => {
         style={{ backgroundImage: `url(${Hom})` }}
       ></div>
       <div className="aboutBottom"></div>
-      <h1>ABOUT US</h1>
+      <h1 className="bg-success">ABOUT US</h1>
       
       <p className="p">
         Welcome to our Tea Shop! We are a cozy and inviting tea house dedicated
