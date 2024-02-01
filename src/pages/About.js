@@ -10,9 +10,9 @@ const About = () => {
         style={{ backgroundImage: `url(${Hom})` }}
       ></div>
       <div className="aboutBottom"></div>
-      <h1>ABOUT US</h1>
+      <h1 className="bg-success">ABOUT US</h1>
       
-      <p className="p">
+      <p className="p-5">
         Welcome to our Tea Shop! We are a cozy and inviting tea house dedicated
         to providing a unique and memorable tea experience for our customers.
         Our tea shop offers a wide variety of high-quality teas sourced from
